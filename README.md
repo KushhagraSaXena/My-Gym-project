@@ -73,6 +73,6 @@ Streamline your fitness journey with ease and efficiency! 💪
 ----
 👨‍💻 Author
 
-Kushagra saxena
-💼LinkedIn: http://www.linkedin.com/in/KushagraSaxena01
-📧Email: kushagrasaxenaplatinum@gmail.com
+###Kushagra saxena
+###💼LinkedIn: http://www.linkedin.com/in/KushagraSaxena01
+###📧Email: kushagrasaxenaplatinum@gmail.com
